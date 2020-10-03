@@ -1,0 +1,15 @@
+.navbar-brand img{
+    height: 60px;   
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: rgb(233, 185, 185);
+}
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited  {
+    color: rgb(107, 62, 165);
+    margin-right: 40px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:active  {
+    border-bottom: 1px solid lightgrey;
+    margin-right: 40px;
+}
